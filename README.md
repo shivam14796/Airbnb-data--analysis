@@ -1,13 +1,9 @@
  Objective----
-This project aims to analyze seismic event data using Python. The main objectives are:
+This project aims to analyze Airbnb event data using Python. The main objectives are:
 
-To clean, preprocess, and understand the structure of earthquake/seismic data.
+To clean, preprocess, and understand the structure of Airbnb data.
 
-To explore the spatial and temporal distribution of seismic events.
-
-To visualize key metrics such as earthquake magnitudes, depths, and their geographical locations.
-
-To provide insights that can help in understanding regional seismic patterns and potential risk zones.
+To explore the spatial and temporal distribution of Airbnb event.
 
 This project will use libraries such as NumPy, Pandas, Matplotlib, Seaborn, and potentially Folium or Plotly for interactive geographic visualizations.
 
